@@ -1,0 +1,51 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "http.proxyStrictSSL": false,
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "gitlens.keymap": "alternate",
+    "workbench.colorTheme": "Cobalt2",
+    //"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "300",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "all",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "gitlens.gitExplorer.files.layout": "auto",
+    "workbench.colorCustomizations": {
+        "scrollbarSlider.activeBackground": "#fbe20080",
+        "scrollbarSlider.background": "#fbe20080",
+        "scrollbarSlider.hoverBackground": "#fbe20080",
+
+          //Bottom
+        "statusBar.foreground": "#f0b802",
+        "statusBar.border": "#f0b802",
+        "statusBar.debuggingForeground": "#f0b802",
+        "statusBar.debuggingBorder": "#ff0000",
+
+        //Left
+        "sideBar.border": "#f0b802",
+    },
+    "git.enableSmartCommit": true,
+    "javascript.validate.enable": false,
+    "telemetry.enableTelemetry": false
+}
