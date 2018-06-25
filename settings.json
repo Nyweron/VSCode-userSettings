@@ -16,8 +16,7 @@
     "workbench.iconTheme": "vscode-icons",
     "git.autofetch": true,
     "gitlens.keymap": "alternate",
-    "workbench.colorTheme": "Cobalt2",
-    //"editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "Monokai",
     "editor.fontSize": 14,
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
@@ -27,6 +26,7 @@
     "editor.cursorWidth": 5,
     "editor.cursorBlinking": "solid",
     "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
     "jshint.options": {
         "esversion": 6
     },
@@ -47,5 +47,18 @@
     },
     "git.enableSmartCommit": true,
     "javascript.validate.enable": false,
-    "telemetry.enableTelemetry": false
+    "telemetry.enableTelemetry": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.historyExplorer.enabled": true,
+    "csharp.format.enable": false,
+    "csharpfixformat.style.braces.onSameLine": false,
+    "csharpfixformat.style.spaces.beforeParenthesis": false,
+    "explorer.confirmDelete": false,
+    "cSpell.userWords": [
+        "Autofac",
+        "Cconfiguration",
+        "Entitiy"
+    ],
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "editor.detectIndentation": false
 }
